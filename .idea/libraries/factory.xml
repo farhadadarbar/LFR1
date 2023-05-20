@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="factory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/factory/sign.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/factory/apktool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

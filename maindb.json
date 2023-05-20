@@ -1,0 +1,567 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "8f467f882a986d1d0f843b5d128b512d",
+    "logs": [
+      {
+        "time": "2023-05-18T14:55:18.691Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-05-18T14:56:44.063Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T14:56:51.493Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T14:56:59.118Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:57:03.410Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:57:46.126Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T14:57:46.559Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T14:57:46.565Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T14:57:46.570Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T14:57:48.116Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T14:58:00.338Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:58:06.150Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Contacts Updated - 320 New Contacts Added"
+      },
+      {
+        "time": "2023-05-18T14:58:06.706Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:58:08.379Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-05-18T14:58:19.586Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:58:57.534Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 2000 New Calls"
+      },
+      {
+        "time": "2023-05-18T14:58:57.536Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T14:58:57.543Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T14:58:57.545Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T14:58:57.547Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:59:05.120Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2023-05-18T14:59:16.517Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:59:29.193Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:59:47.730Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T14:59:49.018Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-05-18T14:59:52.471Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:00:01.768Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Apps Updated"
+      },
+      {
+        "time": "2023-05-18T15:00:37.370Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:00:44.802Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T15:00:47.846Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:01:20.838Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:01:29.851Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:01:46.198Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:01:49.640Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2023-05-18T15:01:55.371Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T15:01:59.722Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:04:07.387Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:04:12.153Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:04:14.577Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-05-18T15:04:23.544Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:04:53.199Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:05:33.651Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e POLL COMMAND - GPS"
+      },
+      {
+        "time": "2023-05-18T15:05:33.653Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:06:33.651Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e POLL COMMAND - GPS"
+      },
+      {
+        "time": "2023-05-18T15:06:33.652Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:06:41.673Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:06:48.212Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T15:07:00.363Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:07:52.441Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:07:58.474Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T15:08:19.523Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:08:19.524Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Running Queued Commands"
+      },
+      {
+        "time": "2023-05-18T15:08:19.525Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:08:30.344Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:08:32.138Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:08:49.426Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:08:52.898Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:09:05.322Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:09:16.219Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:09:20.995Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:09:23.484Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:09:28.439Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:09:35.829Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:09:52.900Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e POLL COMMAND - GPS"
+      },
+      {
+        "time": "2023-05-18T15:09:52.902Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:10:00.710Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T15:10:43.532Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:10:43.534Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Running Queued Commands"
+      },
+      {
+        "time": "2023-05-18T15:10:43.537Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:11:03.376Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:11:05.811Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:11:16.120Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:11:16.566Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:11:37.169Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:11:37.626Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SENT SMS"
+      },
+      {
+        "time": "2023-05-18T15:12:06.189Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:12:12.242Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T15:12:14.088Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T15:12:19.073Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:12:27.970Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:13:14.090Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e POLL COMMAND - GPS"
+      },
+      {
+        "time": "2023-05-18T15:13:14.091Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:13:15.266Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:13:22.725Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e SMS List Updated - 0 New Messages"
+      },
+      {
+        "time": "2023-05-18T15:14:08.106Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:14:11.629Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 1 New Calls"
+      },
+      {
+        "time": "2023-05-18T15:14:12.142Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:14:14.090Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e POLL COMMAND - GPS"
+      },
+      {
+        "time": "2023-05-18T15:14:14.091Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T15:14:15.862Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2023-05-18T15:14:38.542Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T18:05:09.997Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-05-18T18:06:53.413Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T18:06:53.414Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Running Queued Commands"
+      },
+      {
+        "time": "2023-05-18T18:06:53.415Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T18:06:57.663Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T18:07:34.354Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Connected"
+      },
+      {
+        "time": "2023-05-18T18:07:46.703Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T18:07:49.458Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2023-05-18T18:07:58.224Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T18:08:04.255Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T18:08:04.466Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 6 New Calls"
+      },
+      {
+        "time": "2023-05-18T18:08:06.068Z",
+        "type": "SUCCESS",
+        "message": "b3ca29fc0e6de27e Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2023-05-18T18:08:14.744Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From b3ca29fc0e6de27e"
+      },
+      {
+        "time": "2023-05-18T18:08:16.126Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-05-18T18:08:19.288Z",
+        "type": "INFO",
+        "message": "b3ca29fc0e6de27e Disconnected"
+      },
+      {
+        "time": "2023-05-18T18:10:49.616Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-05-18T22:59:44.294Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "b3ca29fc0e6de27e",
+      "firstSeen": "2023-05-18T14:56:44.046Z",
+      "lastSeen": "2023-05-18T18:08:19.291Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "1",
+        "clientGeo": {},
+        "device": {
+          "model": "MRD-LX1F",
+          "manufacture": "HUAWEI",
+          "version": "9"
+        }
+      }
+    }
+  ]
+}
